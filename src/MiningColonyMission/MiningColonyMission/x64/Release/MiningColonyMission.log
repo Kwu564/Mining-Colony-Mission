@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+libgodot-cpp.windows.x64.Release.lib(String.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(String.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Variant.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Variant.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(TagDB.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(TagDB.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(__register_types.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(__register_types.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(PoolArrays.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(PoolArrays.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Array.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Array.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Dictionary.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Dictionary.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Vector3.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Vector3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Basis.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Basis.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Quat.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in gdexample.obj
+libgodot-cpp.windows.x64.Release.lib(Quat.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in gdexample.obj
+     Creating library ..\..\..\bin\Lib-MiningColonyMission-x64-Release.lib and object ..\..\..\bin\Lib-MiningColonyMission-x64-Release.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+libgodot-cpp.windows.x64.Release.lib(TagDB.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+libgodot-cpp.windows.x64.Release.lib(TagDB.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+..\..\..\bin\Lib-MiningColonyMission-x64-Release.dll : fatal error LNK1120: 2 unresolved externals

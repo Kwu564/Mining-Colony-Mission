@@ -1,0 +1,1076 @@
+id RedwoodTree1.001
+location -32.0804 -44.8187 15.5983 
+rotation 0.0164 -0.0375 -0.0177 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.002
+location -10.2350 -42.0642 23.1631 
+rotation 0.1150 0.0028 -0.0439 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.003
+location 3.1959 -47.5584 15.2421 
+rotation -0.0281 -0.0640 -0.0446 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.004
+location -44.4853 -32.4515 16.7746 
+rotation 0.0235 0.0225 -0.0860 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.005
+location -41.4020 -34.2376 17.1330 
+rotation 0.0328 -0.0373 -0.0013 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.006
+location -40.6377 -39.0484 17.4384 
+rotation 0.0288 -0.0004 0.0587 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.007
+location -38.0713 -40.1747 17.1075 
+rotation 0.0925 -0.0597 0.0427 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.008
+location -38.0713 -40.1747 17.1075 
+rotation -0.0786 -0.0365 0.0177 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.009
+location -36.4799 -35.7988 16.6680 
+rotation 0.0115 -0.0506 -0.0790 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.010
+location -31.9467 -40.3262 16.6666 
+rotation 0.0088 0.0414 0.0331 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.011
+location -33.7470 -36.0274 16.4488 
+rotation -0.0308 0.0625 0.0099 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.012
+location -29.0731 -39.8448 16.6863 
+rotation 0.0157 0.1103 -0.0276 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.013
+location -29.0731 -39.8448 16.6863 
+rotation 0.0436 0.0337 -0.0509 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.014
+location -29.0731 -39.8448 16.6863 
+rotation 0.0102 0.0061 0.1171 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.015
+location -26.1447 -39.4785 16.7889 
+rotation 0.0500 -0.0502 0.0539 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.016
+location -25.7893 -35.0424 15.1955 
+rotation -0.1004 -0.0001 0.0257 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.017
+location -25.7893 -35.0424 15.1955 
+rotation -0.0192 -0.0745 -0.0721 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.018
+location -22.9878 -39.3035 17.3715 
+rotation 0.0000 0.0589 -0.0919 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.019
+location -22.9878 -39.3035 17.3715 
+rotation 0.0757 -0.0076 -0.0230 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.020
+location -19.7326 -34.7947 14.3470 
+rotation -0.0528 -0.0262 0.0017 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.021
+location -16.3734 -37.9909 20.1081 
+rotation 0.0287 -0.0610 -0.0811 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.022
+location -13.1658 -37.7932 20.5032 
+rotation 0.0213 0.0862 0.0003 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.023
+location -13.1658 -37.7932 20.5032 
+rotation 0.0086 0.0560 -0.1104 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.024
+location -16.6791 -34.1811 15.1800 
+rotation 0.0893 -0.0351 -0.0632 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.025
+location -16.6791 -34.1811 15.1800 
+rotation -0.0230 -0.0475 0.0347 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.026
+location -10.7596 -38.3655 20.3820 
+rotation 0.0496 -0.0289 0.0070 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.027
+location -11.5550 -34.2873 15.4615 
+rotation -0.0551 -0.0010 0.0427 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.028
+location -7.5510 -39.5061 18.5922 
+rotation 0.0256 -0.0803 -0.0151 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.029
+location -7.5510 -39.5061 18.5922 
+rotation 0.0590 0.0311 0.0125 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.030
+location -7.5510 -39.5061 18.5922 
+rotation -0.0601 0.0230 -0.1026 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.031
+location -6.7656 -34.8881 12.9956 
+rotation -0.0765 0.0054 0.0225 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.032
+location -8.1777 -35.0095 13.8921 
+rotation -0.0025 -0.0859 -0.0448 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.033
+location -8.1777 -35.0095 13.8921 
+rotation 0.0395 0.0533 -0.0607 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.034
+location -4.5074 -38.7692 14.1191 
+rotation 0.0135 -0.0040 -0.0023 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.035
+location -3.7472 -37.7825 12.0308 
+rotation 0.0704 -0.0464 0.0475 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.036
+location -3.3406 -37.5081 11.6801 
+rotation 0.0785 0.0105 0.0566 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.037
+location -1.4905 -40.4873 12.9013 
+rotation -0.0817 0.0102 -0.0785 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.038
+location -1.7979 -37.0497 10.0087 
+rotation -0.0522 -0.0104 0.0204 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.039
+location 0.9961 -39.5400 12.2154 
+rotation 0.0336 -0.0844 -0.0855 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.040
+location 2.5577 -44.1420 14.6250 
+rotation 0.0137 0.0812 0.0035 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.041
+location 2.5343 -39.5751 12.1373 
+rotation 0.0062 0.0467 -0.0044 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.042
+location 4.2987 -43.8480 13.9930 
+rotation 0.0140 -0.0737 0.0868 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.043
+location 3.5459 -39.4969 12.1876 
+rotation 0.0938 -0.0046 -0.0184 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.044
+location 3.5459 -39.4969 12.1876 
+rotation -0.0575 -0.0410 -0.0354 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.045
+location 8.0308 -39.3428 13.1310 
+rotation -0.0019 -0.0189 -0.0443 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.046
+location 8.0308 -39.3428 13.1310 
+rotation 0.0558 -0.0116 0.0077 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.047
+location 6.2666 -39.3475 12.7273 
+rotation -0.0294 0.0019 0.0472 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.048
+location 12.3130 -39.5009 13.6315 
+rotation -0.0434 0.0806 0.0537 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.049
+location 12.3130 -39.5009 13.6315 
+rotation -0.0276 -0.1131 0.0417 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.050
+location -41.7398 -31.0821 15.3495 
+rotation 0.0361 0.0127 -0.0034 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.051
+location -39.6363 -31.6067 15.0119 
+rotation -0.0493 0.0248 0.0128 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.052
+location -37.8872 -29.7497 11.6078 
+rotation 0.0012 -0.0696 0.0306 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.053
+location -37.8872 -29.7497 11.6078 
+rotation 0.0681 -0.0054 -0.0003 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.054
+location -34.8409 -32.3816 14.8259 
+rotation -0.0666 -0.0076 -0.0036 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.055
+location -34.8409 -32.3816 14.8259 
+rotation 0.0001 -0.0754 -0.0637 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.056
+location -34.8409 -32.3816 14.8259 
+rotation 0.0237 0.0598 -0.0329 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.057
+location -33.2376 -29.9783 11.8017 
+rotation 0.0052 0.0236 0.0071 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.058
+location -33.2376 -29.9783 11.8017 
+rotation -0.0433 0.0685 0.0092 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.059
+location -35.6587 -29.9759 11.7235 
+rotation -0.0364 -0.1124 0.0369 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.060
+location -35.6587 -29.9759 11.7235 
+rotation 0.0428 0.0165 -0.0510 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.061
+location -30.7024 -29.7039 11.3501 
+rotation 0.0264 0.0138 0.1065 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.062
+location -21.9629 -31.6610 11.2419 
+rotation -0.0477 0.0416 0.0281 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.063
+location -21.9629 -31.6610 11.2419 
+rotation -0.0021 -0.1075 0.0137 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.064
+location -19.0639 -31.8032 10.8397 
+rotation 0.0466 0.0230 -0.0032 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.065
+location -19.0639 -31.8032 10.8397 
+rotation -0.0659 0.0263 -0.1032 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.066
+location -19.0639 -31.8032 10.8397 
+rotation -0.0835 0.0041 0.0164 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.067
+location -17.9471 -29.2220 8.1671 
+rotation -0.0110 -0.0763 -0.0343 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.068
+location -16.3644 -31.6058 10.9468 
+rotation 0.0277 0.0187 0.0102 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.069
+location -14.1328 -31.2842 11.1385 
+rotation 0.0520 -0.0457 0.0785 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.070
+location -11.0268 -28.8650 8.1902 
+rotation 0.0883 -0.0055 0.0426 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.071
+location -11.0268 -28.8650 8.1902 
+rotation -0.0873 -0.0111 -0.0732 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.072
+location -8.2863 -28.2065 7.4451 
+rotation -0.0513 -0.0076 -0.0026 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.073
+location -6.4340 -27.2157 6.4525 
+rotation 0.0116 -0.0593 -0.0013 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.074
+location -7.1875 -27.7307 7.0602 
+rotation 0.0905 0.0070 -0.0272 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.075
+location -4.9685 -29.2603 7.5922 
+rotation -0.0507 -0.0441 -0.0946 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.076
+location -4.6572 -29.0229 7.2926 
+rotation -0.0552 0.0379 -0.1058 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.077
+location -4.4852 -26.1812 5.6047 
+rotation -0.0702 0.0051 0.0405 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.078
+location -3.1575 -31.4587 7.6438 
+rotation 0.0089 -0.0820 -0.0206 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.079
+location -1.2958 -33.8505 9.1460 
+rotation 0.0694 0.0405 -0.0527 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.080
+location -1.6737 -29.9869 8.6335 
+rotation -0.0060 -0.0294 -0.1085 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.081
+location 0.7626 -34.7548 10.3118 
+rotation 0.0359 -0.0628 0.0697 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.082
+location 1.6373 -34.7184 10.5235 
+rotation 0.0668 -0.0019 0.0374 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.083
+location 1.6373 -34.7184 10.5235 
+rotation -0.0858 0.0112 -0.0321 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.084
+location 4.1055 -34.7290 11.0598 
+rotation -0.0478 -0.0586 -0.0286 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.085
+location 5.7106 -34.8476 11.4958 
+rotation 0.0174 -0.0051 -0.1161 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.086
+location 7.2267 -31.0012 10.3989 
+rotation 0.0584 -0.0915 0.0039 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.087
+location 5.4768 -30.7965 9.9463 
+rotation 0.0922 0.0636 -0.0150 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.088
+location 9.5429 -35.2203 12.0535 
+rotation -0.0106 -0.0134 -0.1181 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.089
+location 9.5429 -35.2203 12.0535 
+rotation 0.0748 -0.0799 0.0410 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.090
+location 9.5429 -35.2203 12.0535 
+rotation -0.0692 -0.0315 0.0460 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.091
+location 11.7658 -35.4218 12.2160 
+rotation 0.0169 -0.0398 0.0057 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.092
+location 11.7658 -35.4218 12.2160 
+rotation -0.0950 0.0171 0.0521 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.093
+location 11.1781 -31.2945 11.2168 
+rotation -0.0121 -0.0586 0.0117 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.094
+location 9.1146 -31.1248 10.9982 
+rotation 0.0567 -0.0128 -0.0015 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.095
+location 15.9075 -31.9451 10.6473 
+rotation -0.1014 -0.0073 -0.0513 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.096
+location 15.9075 -31.9451 10.6473 
+rotation 0.0605 0.0240 0.1019 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.097
+location 15.9075 -31.9451 10.6473 
+rotation -0.0623 0.0327 -0.0221 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.098
+location 13.4742 -31.6335 10.8964 
+rotation -0.0463 -0.1021 -0.0307 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.099
+location 13.4742 -31.6335 10.8964 
+rotation 0.0121 0.0322 -0.0885 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.100
+location 13.4742 -31.6335 10.8964 
+rotation 0.0335 -0.0166 0.0263 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.101
+location 19.1366 -35.7350 12.3541 
+rotation 0.0635 -0.0224 0.0575 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.102
+location 21.5057 -35.0927 11.9835 
+rotation 0.0943 -0.0112 0.0607 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.103
+location 20.6637 -31.6376 9.5079 
+rotation -0.0848 -0.0137 -0.0459 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.104
+location 18.3327 -32.0467 10.2237 
+rotation -0.0314 -0.0227 0.0019 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.105
+location 18.3327 -32.0467 10.2237 
+rotation -0.0460 0.0637 0.0876 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.106
+location -15.2304 -26.1181 7.7842 
+rotation -0.0070 -0.0839 0.0468 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.107
+location -13.5359 -26.2283 7.9268 
+rotation 0.0830 0.0010 -0.0672 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.108
+location -8.3796 -25.2818 5.2172 
+rotation 0.0274 0.0715 0.0967 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.109
+location -5.9576 -23.6606 4.4176 
+rotation -0.0287 0.0732 -0.0936 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.110
+location -4.0381 -25.3925 4.7237 
+rotation 0.0905 0.0062 -0.0061 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.111
+location -3.3480 -26.0717 5.7258 
+rotation -0.0473 -0.0200 -0.0085 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.112
+location -1.9787 -27.0786 7.2244 
+rotation 0.0201 -0.0540 -0.0223 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.113
+location 2.2822 -25.1344 6.9572 
+rotation 0.0584 0.0158 0.0257 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.114
+location 7.1268 -27.5066 8.9876 
+rotation -0.0591 0.0202 -0.0079 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.115
+location 10.8366 -27.5397 10.7828 
+rotation -0.0166 -0.1063 -0.0544 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.116
+location 8.7046 -24.5612 9.1090 
+rotation 0.0135 0.0543 -0.0419 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.117
+location 12.8041 -24.3964 8.4474 
+rotation 0.0172 0.0411 -0.0374 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.118
+location 12.8041 -24.3964 8.4474 
+rotation 0.0010 -0.0448 0.1120 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.119
+location 17.7298 -28.1917 8.5953 
+rotation -0.0323 0.0149 0.0685 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.120
+location 17.7298 -28.1917 8.5953 
+rotation 0.0436 -0.0977 -0.0001 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.121
+location 17.7298 -28.1917 8.5953 
+rotation -0.0624 -0.0397 0.0710 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.122
+location 20.0559 -27.7973 7.9704 
+rotation 0.0331 -0.0476 -0.0206 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.123
+location 20.0559 -27.7973 7.9704 
+rotation 0.1020 0.0309 0.0008 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.124
+location 0.9380 -23.8835 5.5178 
+rotation -0.0275 -0.0136 -0.0012 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.125
+location 3.7468 -23.9046 5.9078 
+rotation -0.0424 0.0675 0.0778 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.126
+location 5.2188 -23.5832 6.4900 
+rotation -0.0093 -0.1080 0.0371 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.127
+location 6.7965 -23.2000 7.1078 
+rotation 0.0448 0.0145 0.0022 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.128
+location 8.5785 -22.7310 7.6428 
+rotation -0.0758 0.0286 -0.0515 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.129
+location 8.4822 -21.6345 6.5754 
+rotation 0.0765 0.0550 0.0703 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.130
+location 8.4822 -21.6345 6.5754 
+rotation -0.0446 0.0260 -0.1002 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.131
+location 12.7518 -22.0775 7.4289 
+rotation 0.1090 -0.0092 0.0350 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.132
+location 10.4055 -20.5306 5.8423 
+rotation -0.0584 -0.0238 -0.0097 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.133
+location 12.5691 -20.3852 5.6942 
+rotation 0.0109 -0.0524 -0.0414 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.134
+location 21.8468 -19.9029 4.3209 
+rotation -0.0527 -0.0261 0.0847 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.135
+location 8.0687 -19.2615 4.9832 
+rotation 0.0436 -0.0641 -0.0280 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.136
+location 14.4542 -19.0280 4.6724 
+rotation -0.0572 -0.0350 0.0617 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.137
+location 14.4542 -19.0280 4.6724 
+rotation 0.0468 -0.0625 -0.0868 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.138
+location 14.1697 -18.4417 4.4415 
+rotation -0.0234 -0.1053 0.0399 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.139
+location 24.7319 -17.3867 4.0457 
+rotation -0.0482 -0.0083 0.1033 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.140
+location 9.4303 -16.2213 4.2568 
+rotation -0.0351 0.0733 0.0732 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.141
+location 15.3677 -16.7788 4.0749 
+rotation 0.0066 0.0767 0.0245 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.142
+location 21.9564 -16.2015 4.0592 
+rotation -0.0052 0.0827 -0.0842 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.143
+location 21.9564 -16.2015 4.0592 
+rotation -0.0821 -0.0018 0.0893 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.144
+location 26.2592 -16.1468 5.0642 
+rotation 0.0086 -0.0737 -0.0237 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.145
+location -36.7826 -19.1659 8.0945 
+rotation 0.0752 0.0396 -0.0790 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.146
+location 11.1369 -14.1208 3.9000 
+rotation 0.0159 -0.0529 -0.0641 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.147
+location 21.7818 -14.2683 4.4261 
+rotation 0.0298 0.0482 0.0194 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.148
+location 5.9868 -13.6466 2.6494 
+rotation -0.0351 0.0546 -0.0280 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.149
+location 8.2626 -13.1770 3.1018 
+rotation 0.0399 0.0794 0.0160 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.150
+location 12.9774 -13.1156 3.6194 
+rotation 0.0037 -0.0328 0.1028 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.151
+location 11.1631 -13.1269 3.5311 
+rotation 0.0562 -0.0315 0.0353 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.152
+location 17.1553 -13.6578 3.9802 
+rotation -0.1089 0.0019 -0.0109 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.153
+location -36.8473 -14.2921 9.2329 
+rotation 0.0479 0.0522 0.1007 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.154
+location -40.1976 -15.2196 12.8682 
+rotation -0.0504 0.0547 -0.0972 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.155
+location -40.1976 -15.2196 12.8682 
+rotation -0.1187 -0.0076 0.0185 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.156
+location 19.2607 -12.5404 3.8537 
+rotation -0.0256 -0.0407 -0.0070 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.157
+location -36.5217 -12.2551 8.8475 
+rotation 0.0544 -0.0318 -0.0386 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.158
+location -39.5976 -12.9670 12.4273 
+rotation -0.0694 -0.0450 0.0205 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.159
+location 10.8335 -11.6407 2.6518 
+rotation -0.0161 0.0391 0.1092 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.160
+location 14.5903 -11.5014 2.8639 
+rotation -0.0346 0.0965 0.0056 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.161
+location 16.5007 -10.8413 2.6093 
+rotation 0.0479 0.0886 -0.0411 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.162
+location 14.2926 -10.9535 2.4126 
+rotation 0.0275 0.0086 -0.0863 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.163
+location 23.4270 -10.2598 4.0382 
+rotation 0.0171 -0.0464 0.0175 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.164
+location -39.2215 -11.7242 12.2228 
+rotation 0.0688 -0.0109 0.0272 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.165
+location -38.8066 -10.4920 11.9311 
+rotation -0.0560 0.0016 0.0223 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.166
+location -38.8066 -10.4920 11.9311 
+rotation 0.0221 -0.0951 -0.0586 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.167
+location -5.2663 -9.5070 2.4785 
+rotation -0.0372 -0.0709 0.0851 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.168
+location 10.4237 -10.5924 1.7492 
+rotation 0.0634 -0.0254 -0.0557 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.169
+location 15.8573 -9.6794 1.3951 
+rotation -0.0633 -0.0837 -0.0382 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.170
+location -9.0224 -9.5375 4.6097 
+rotation -0.0034 0.0180 -0.0896 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.171
+location 5.8524 -9.5234 0.3783 
+rotation 0.0213 -0.0093 0.0543 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.172
+location 9.7648 -8.7684 -0.0307 
+rotation -0.0943 0.0561 0.0018 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.173
+location 10.5749 -9.3722 0.6330 
+rotation -0.0625 -0.0892 -0.0160 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.174
+location 17.3640 -8.1677 0.2135 
+rotation 0.0106 0.0108 -0.1174 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.175
+location 14.7788 -8.2925 -0.1300 
+rotation -0.0731 0.0776 0.0408 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.176
+location -40.6917 -6.2357 13.1031 
+rotation -0.0302 -0.0633 0.0485 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.177
+location -37.1198 -6.4608 10.2838 
+rotation 0.0434 -0.0199 0.0067 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.178
+location -37.1198 -6.4608 10.2838 
+rotation 0.1147 -0.0132 0.0412 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.179
+location -8.1159 -6.2391 5.5221 
+rotation -0.0612 -0.0298 -0.0167 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.180
+location -6.3547 -6.4513 3.0658 
+rotation 0.0056 -0.0428 -0.0464 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.181
+location 3.4688 -7.6228 -1.2602 
+rotation 0.0738 0.0409 -0.0719 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.182
+location 10.6354 -7.9867 -0.8116 
+rotation -0.0056 0.0403 0.1097 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.183
+location 10.6354 -7.9867 -0.8116 
+rotation -0.0194 0.0474 0.0416 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.184
+location 11.9572 -6.9580 -1.9157 
+rotation -0.0169 0.0858 0.0153 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.185
+location 11.9572 -6.9580 -1.9157 
+rotation 0.0172 0.0619 0.0093 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.186
+location 14.1560 -6.6449 -2.1529 
+rotation -0.0113 0.0523 -0.0053 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.187
+location 22.0996 -5.6898 3.1645 
+rotation 0.0013 0.0721 0.0086 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.188
+location 23.8318 -5.4229 5.1548 
+rotation 0.0029 0.0519 0.0112 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.189
+location -40.3981 -5.2226 12.4898 
+rotation -0.0156 0.0686 -0.0019 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.190
+location -8.2115 -5.0982 5.5687 
+rotation 0.0162 0.0987 -0.0721 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.191
+location 7.3147 -6.4284 -2.6098 
+rotation 0.0453 0.0021 -0.0007 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.192
+location 11.0140 -6.2877 -2.8294 
+rotation -0.0621 0.0149 0.0084 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.193
+location 21.9202 -2.0016 4.2281 
+rotation -0.0030 -0.0961 -0.0312 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.194
+location 21.9202 -2.0016 4.2281 
+rotation 0.0458 0.0507 -0.0946 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.195
+location 22.9401 -2.2529 5.0643 
+rotation 0.0488 -0.0450 -0.0734 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.196
+location 21.4164 0.0878 0.2080 
+rotation 0.0411 0.0934 0.0286 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.197
+location 25.4814 1.1294 6.2608 
+rotation -0.0027 -0.0390 0.1098 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.198
+location -28.7494 -1.0651 9.9853 
+rotation 0.0632 -0.0337 0.0216 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.199
+location -25.5401 -1.6605 10.1058 
+rotation -0.0774 -0.0079 0.0228 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.200
+location -25.5401 -1.6605 10.1058 
+rotation 0.0056 -0.0792 -0.0880 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.201
+location -29.2398 0.8693 9.2688 
+rotation -0.0015 0.0895 -0.0749 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.202
+location -11.2471 -1.6690 5.4598 
+rotation 0.0773 0.0152 -0.0623 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.203
+location -9.3822 -1.7071 3.7107 
+rotation 0.0226 0.0555 0.1086 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.204
+location -9.6303 -1.0978 2.9717 
+rotation 0.0296 -0.0666 0.0845 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.205
+location 21.0185 3.3495 3.9023 
+rotation 0.1156 -0.0013 -0.0302 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.206
+location 21.0185 3.3495 3.9023 
+rotation -0.0404 -0.0645 -0.0816 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.207
+location 22.0987 3.4967 4.9457 
+rotation -0.0272 0.0448 -0.1092 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.208
+location 22.0987 3.4967 4.9457 
+rotation -0.0794 0.0166 0.0537 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.209
+location 23.2157 3.4825 5.6816 
+rotation -0.0006 -0.0976 -0.0472 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.210
+location 25.5610 2.8086 6.2374 
+rotation -0.0335 -0.0511 0.1008 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.211
+location -38.3777 2.6598 7.0467 
+rotation 0.0623 -0.0406 -0.0276 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.212
+location -38.3777 2.6598 7.0467 
+rotation 0.0598 0.0340 0.0607 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.213
+location -35.3463 2.8917 7.7153 
+rotation -0.0599 0.0359 -0.0415 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.214
+location -32.7437 4.8087 7.4139 
+rotation -0.0441 -0.0519 0.0333 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.215
+location -32.7437 4.8087 7.4139 
+rotation 0.0505 -0.0385 -0.0501 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.216
+location -26.6336 4.5286 8.6526 
+rotation -0.0503 -0.0470 0.0412 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.217
+location -26.6336 4.5286 8.6526 
+rotation 0.0472 -0.0459 -0.0540 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.218
+location -29.8306 4.8116 8.1927 
+rotation -0.0521 -0.0566 0.0460 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.219
+location -20.0697 3.7882 8.1102 
+rotation 0.0494 -0.0376 -0.1082 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.220
+location -23.1173 4.1463 8.7715 
+rotation 0.0073 -0.0906 0.0296 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.221
+location -23.1173 4.1463 8.7715 
+rotation -0.0881 -0.0134 0.0875 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.222
+location -17.3236 1.5286 7.0527 
+rotation 0.0118 -0.0742 -0.0996 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.223
+location -17.6939 3.2802 6.7140 
+rotation 0.0036 -0.0743 0.0777 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.224
+location -13.2034 1.3010 3.2705 
+rotation 0.0938 -0.0087 -0.0406 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.225
+location 4.4617 -0.6422 -3.1435 
+rotation -0.0490 -0.0636 -0.0537 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.226
+location 25.5914 6.1983 5.6430 
+rotation -0.0041 0.0142 -0.0247 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.227
+location 27.1062 6.6338 4.5892 
+rotation -0.0177 0.0397 0.0485 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.228
+location -27.0721 6.6118 7.1843 
+rotation 0.0276 -0.0969 0.0429 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.229
+location -27.0721 6.6118 7.1843 
+rotation 0.0749 0.0240 0.0001 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.230
+location -27.0721 6.6118 7.1843 
+rotation -0.0570 -0.0032 -0.1097 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.231
+location -23.6519 5.9532 7.1170 
+rotation -0.0965 0.0275 -0.0479 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.232
+location -23.6519 5.9532 7.1170 
+rotation -0.0673 -0.0441 -0.0074 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.233
+location -20.4794 5.6374 6.9962 
+rotation 0.0061 -0.0227 -0.0015 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.234
+location -24.0324 7.4714 5.7837 
+rotation -0.0626 0.0304 0.0594 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.235
+location -24.0324 7.4714 5.7837 
+rotation 0.0025 -0.0767 0.0225 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.236
+location -18.0326 5.2995 6.3204 
+rotation 0.0884 0.0067 -0.0619 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.237
+location -16.1228 4.0703 4.7156 
+rotation -0.0206 -0.0595 -0.0302 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.238
+location -11.7680 1.3465 1.5618 
+rotation 0.0327 0.0057 -0.0073 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.239
+location -12.8647 2.6076 1.8383 
+rotation 0.0763 -0.0359 0.0763 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.240
+location -11.0535 1.2754 0.3414 
+rotation -0.0815 -0.0069 0.0127 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.241
+location 4.4387 -0.1355 -2.6430 
+rotation -0.0042 -0.0762 -0.0875 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.242
+location 8.8262 1.4909 -1.6964 
+rotation 0.0000 -0.0727 0.0937 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.243
+location 23.5542 9.1106 4.0199 
+rotation -0.0663 0.0126 0.0789 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.244
+location -18.9119 8.4623 4.1744 
+rotation 0.0117 -0.0737 0.0081 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.245
+location -15.3428 5.2241 3.0327 
+rotation 0.0755 0.0122 -0.0098 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.246
+location -12.1405 2.6284 0.7636 
+rotation -0.0519 -0.0110 -0.0200 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.247
+location -0.5177 1.3595 -3.3009 
+rotation 0.0027 -0.0552 -0.0147 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.248
+location 4.9688 2.6521 -1.0976 
+rotation 0.0855 0.0078 -0.0523 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.249
+location 26.2707 10.9354 3.5104 
+rotation -0.0265 -0.0466 -0.0172 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.250
+location -11.2090 5.1701 0.3730 
+rotation 0.0504 -0.0195 -0.0580 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.251
+location -1.4344 2.9748 -1.1092 
+rotation 0.0250 0.0277 0.0718 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.252
+location -2.7724 2.4874 -1.7708 
+rotation 0.0449 -0.0521 0.0724 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.253
+location 1.6359 2.8011 -1.2853 
+rotation -0.1244 0.0050 0.0044 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.254
+location -11.4687 7.1216 -0.0458 
+rotation -0.0365 -0.0394 -0.0029 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.255
+location -9.6838 6.6527 -1.5036 
+rotation 0.0391 -0.0349 -0.0246 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.256
+location -8.1794 3.9098 -1.1486 
+rotation -0.0781 -0.0208 0.0389 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.257
+location -8.3224 5.3087 -1.3137 
+rotation 0.0162 -0.0701 -0.0853 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.258
+location -6.9151 3.3254 -1.1778 
+rotation 0.0093 0.0948 -0.0483 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.259
+location -6.9761 4.7932 -0.2305 
+rotation 0.0519 0.0300 -0.0535 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.260
+location -4.5996 3.2906 -0.9170 
+rotation 0.0099 0.0129 0.1035 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.261
+location -3.3785 5.5381 0.3527 
+rotation -0.0652 0.0703 0.0099 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.262
+location -0.8399 6.6461 0.2369 
+rotation -0.0508 -0.1036 0.0195 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.263
+location 1.9928 7.5173 -1.0499 
+rotation 0.0303 0.0102 -0.0486 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.264
+location 1.9928 7.5173 -1.0499 
+rotation -0.0147 -0.0018 0.0399 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.265
+location 0.5972 7.1180 -0.4325 
+rotation 0.0396 -0.0516 0.0386 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.266
+location -6.9545 6.4188 -0.2548 
+rotation -0.1084 0.0025 0.0295 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.267
+location -5.0824 8.2167 -1.3527 
+rotation -0.0240 -0.0635 -0.0321 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.268
+location 0.3725 9.1300 -2.1446 
+rotation 0.0261 0.0076 -0.0017 
+scale 0.1200 0.1200 0.1200 
+id RedwoodTree1.269
+location 1.6936 9.4317 -2.7381 
+rotation -0.0863 0.0495 -0.0383 
+scale 0.1200 0.1200 0.1200 

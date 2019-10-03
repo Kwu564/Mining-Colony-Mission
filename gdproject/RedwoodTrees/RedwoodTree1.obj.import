@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/RedwoodTree1.obj-35f1b307627d2fc605b448ba736f0383.mesh"
+
+[deps]
+
+files=[ "res://.import/RedwoodTree1.obj-35f1b307627d2fc605b448ba736f0383.mesh" ]
+
+source_file="res://RedwoodTrees/RedwoodTree1.obj"
+dest_files=[ "res://.import/RedwoodTree1.obj-35f1b307627d2fc605b448ba736f0383.mesh", "res://.import/RedwoodTree1.obj-35f1b307627d2fc605b448ba736f0383.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

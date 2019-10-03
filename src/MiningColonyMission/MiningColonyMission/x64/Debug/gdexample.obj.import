@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gdexample.obj-e676691e57ee0f3071c456bfff9ed72d.mesh"
+
+[deps]
+
+files=[ "res://.import/gdexample.obj-e676691e57ee0f3071c456bfff9ed72d.mesh" ]
+
+source_file="res://src/MiningColonyMission/MiningColonyMission/x64/Debug/gdexample.obj"
+dest_files=[ "res://.import/gdexample.obj-e676691e57ee0f3071c456bfff9ed72d.mesh", "res://.import/gdexample.obj-e676691e57ee0f3071c456bfff9ed72d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
