@@ -1,3 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-     Creating library ..\..\..\gdproject\bin\Lib-MiningColonyMission-x64-Debug.lib and object ..\..\..\gdproject\bin\Lib-MiningColonyMission-x64-Debug.exp
+  level_init.cpp
+E:\Github\Mining-Colony-Mission\src\level_init.cpp(50,26): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
   MiningColonyMission.vcxproj -> E:\Github\Mining-Colony-Mission\src\MiningColonyMission\MiningColonyMission\..\..\..\gdproject\bin\Lib-MiningColonyMission-x64-Debug.dll

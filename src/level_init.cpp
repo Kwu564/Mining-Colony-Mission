@@ -54,7 +54,7 @@ String Level_Init::spawn_scenes(String scene_path, String scene_transforms_path)
          Node* CurrentScene = scene->instance();
          add_child(CurrentScene);
          Vector3 translation(tok[1], tok[3], -tok[2]);
-         Vector3 rotation(tok[5], -tok[7], -tok[6]);
+         Vector3 rotation(tok[5], tok[7], -tok[6]);
          Vector3 scale(tok[9], tok[11], tok[10]);
          Spatial* spatial = Node::cast_to<Spatial>(CurrentScene);
          spatial->set_translation(translation);
